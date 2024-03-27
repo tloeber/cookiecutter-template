@@ -1,0 +1,11 @@
+{
+    "repo_name": "my-repo",
+    "repo_description": "",
+    "repo_visibility": "public",
+
+    "is_template": "true",
+    "template_owner": "tloeber",
+    "template_repo": "MLOps-template",
+
+    "aws_region_secrets_manager": "us-east-1"
+}
